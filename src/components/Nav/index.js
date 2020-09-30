@@ -13,7 +13,7 @@ const categories = [
       description: "Fields, farmhouses, waterfalls, and the beauty of nature",
     },
   ];
-  
+
   function categorySelected(name) {
     console.log(`${name} clicked`)
   }
@@ -23,14 +23,14 @@ function Nav() {
   return (
     <header>
     <h2>
-      <a href="/">
+    <a href="/">
         <span role="img" aria-label="camera"> 📸</span> Oh Snap!
-      </a>
+    </a>
     </h2>
     <nav>
       <ul className="flex-row">
         <li className="mx-2">
-          <a href="#about">
+        <a href="#about">
             About me
           </a>
         </li>
