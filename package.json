@@ -2,7 +2,7 @@
   "name": "photo-port",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://<username>.github.io/photo-port",
+  "homepage": "http://bdamota.github.io/photo-port",
   "dependencies": {
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
